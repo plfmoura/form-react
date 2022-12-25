@@ -76,7 +76,7 @@ export default function SingInForm() {
         width: "100%", 
         height: "60vh", 
         margin: "0 auto", 
-        border: "1px solid #c3c3c3",
+        boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
         borderRadius: 2,
         display: "flex",
         flexDirection: "column",
